@@ -14,7 +14,7 @@ Python · SQL (Microsoft SQL Server) · Excel · APIs · AI-assisted development
 
 ## Projects
 
-- **FOMC Minutes Analyzer (in progress)**: downloads and stores Federal Reserve meeting minutes and measures the tone and sentiment around any keyword, such as inflation, over time.
+- **[FedSpeak](https://github.com/jasonlukemorgan-dev/FedSpeak) (in progress)**: downloads and stores Federal Reserve (FOMC) meeting minutes and measures the tone and sentiment around any keyword, such as inflation, over time.
 
 ## Currently
 
