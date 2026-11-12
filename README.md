@@ -1,4 +1,4 @@
-# Hi, I'm LUke Morgan
+# Hi, I'm Luke Morgan
 
 Finance undergraduate (Geneva Business School / University of Derby, class TBD while I finish my research), based in northwest Louisiana.
 
